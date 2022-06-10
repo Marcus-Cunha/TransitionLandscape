@@ -1,5 +1,3 @@
 # Criação de animação
 
-
-
-Criação de animação em HTML5 e CSS3.
+Criação de animação com transition em HTML5 e CSS3.
